@@ -2,7 +2,7 @@
 Rendering pipeline with cinema 4d
 
 **Sources** : 
-www.greyscalegorilla.com
-www.helloluxx.com
-www.inlifethrill.com
-www.fxphd.com
+- www.greyscalegorilla.com
+- www.helloluxx.com
+- www.inlifethrill.com
+- www.fxphd.com
